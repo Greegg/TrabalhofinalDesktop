@@ -12,9 +12,10 @@ package Anotacoes;
 public class Anotacoes {
     
     /**
-     * CRIAR MODELOS
-     * CRIAR CONEXAO BANCO
-     * CRIAR DAO
+     * CRIAR MODELOS OK
+     * CRIAR CONEXAO BANCO OK
+     * CRIAR DAO OK 1/2 - 
+     * CRIAR INTERFACES 
      * CRIAR CONTROL
      * CRIAR VIEW
      * 
