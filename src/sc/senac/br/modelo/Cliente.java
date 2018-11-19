@@ -5,7 +5,7 @@
  */
 package sc.senac.br.modelo;
 
-import java.util.Date;
+import java.sql.Date;
 
 /**
  *
